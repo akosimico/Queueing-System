@@ -1,0 +1,11 @@
+C:\Users\CU223\source\repos\Barnido\Barnido\bin\Debug\Barnido.exe.config
+C:\Users\CU223\source\repos\Barnido\Barnido\bin\Debug\Barnido.exe
+C:\Users\CU223\source\repos\Barnido\Barnido\bin\Debug\Barnido.pdb
+C:\Users\CU223\source\repos\Barnido\Barnido\obj\Debug\Barnido.csprojAssemblyReference.cache
+C:\Users\CU223\source\repos\Barnido\Barnido\obj\Debug\Barnido.QueueForm.resources
+C:\Users\CU223\source\repos\Barnido\Barnido\obj\Debug\Barnido.Properties.Resources.resources
+C:\Users\CU223\source\repos\Barnido\Barnido\obj\Debug\Barnido.csproj.GenerateResource.cache
+C:\Users\CU223\source\repos\Barnido\Barnido\obj\Debug\Barnido.csproj.CoreCompileInputs.cache
+C:\Users\CU223\source\repos\Barnido\Barnido\obj\Debug\Barnido.exe
+C:\Users\CU223\source\repos\Barnido\Barnido\obj\Debug\Barnido.pdb
+C:\Users\CU223\source\repos\Barnido\Barnido\obj\Debug\Barnido.CashierWindowQueueForm.resources
